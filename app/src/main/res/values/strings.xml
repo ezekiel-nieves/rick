@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Never Gonna Give You Up</string>
+    <string name="rick">\t Rick Astley -\n
+        Never Gonna Give \n You Up</string>
+    <string name="persona">\t Persona 5 - \n
+        Wake Up, Get Up, \n Get Out There</string>
+    <string name="beast">BEASTARS - Wild Side</string>
+
+</resources>
